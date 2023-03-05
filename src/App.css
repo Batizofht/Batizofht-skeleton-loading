@@ -1,0 +1,42 @@
+:root{
+ --background: white;
+ --colortext:black;
+ --switchiback:black;
+ --switchcolo: white;
+}
+
+[data-theme='dark'] {
+  --background: black;
+  --colortext: white;
+  --switchiback:white;
+  --switchcolo:black;
+}
+.AppTwo{
+  background-color: var(--background);
+  color: var(--colortext);
+  height: 100%;
+}
+.Switch{
+  background-color: var(--switchiback);
+  border: none;
+  padding: 6px 10px;
+  color: var(--switchcolo);
+  border-radius: 50px;
+  margin-top: 5px;
+  
+}
+.inline{
+  display: grid;
+  width: 100%;
+  max-width: 1200px;
+  padding: 20px;
+  margin:  0 auto;
+  grid-template-columns: 2fr 1fr;
+}
+.inline .Profile{
+
+}
+.inline .Posts{
+
+
+}

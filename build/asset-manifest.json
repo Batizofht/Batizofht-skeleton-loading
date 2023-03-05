@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Batizofht-skeleton-loading/static/css/main.e8d0a7bf.css",
+    "main.js": "/Batizofht-skeleton-loading/static/js/main.9fc60b21.js",
+    "static/js/787.1b1a93b8.chunk.js": "/Batizofht-skeleton-loading/static/js/787.1b1a93b8.chunk.js",
+    "static/media/logo.svg": "/Batizofht-skeleton-loading/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Batizofht-skeleton-loading/index.html",
+    "main.e8d0a7bf.css.map": "/Batizofht-skeleton-loading/static/css/main.e8d0a7bf.css.map",
+    "main.9fc60b21.js.map": "/Batizofht-skeleton-loading/static/js/main.9fc60b21.js.map",
+    "787.1b1a93b8.chunk.js.map": "/Batizofht-skeleton-loading/static/js/787.1b1a93b8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e8d0a7bf.css",
+    "static/js/main.9fc60b21.js"
+  ]
+}
